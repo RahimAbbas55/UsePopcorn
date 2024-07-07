@@ -18,14 +18,23 @@ this project uses an APi called "www.omdbapi.com". To use this api, follow the g
 
 ## Project Images and Video:
 
-# Images:
+### Images:
+
+#### Homepage
 
 <img width="1387" alt="Homepage" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/3da3e51c-b8d9-400c-b5b6-b57236d018eb">
 
+#### Search Movie
 
 <img width="1387" alt="Search Movie" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/3c4c1797-bdc9-4447-b30a-b09afcb890c3">
 
+#### Add to Watched
 
+<img width="1386" alt="Add to Watched " src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/d25421b3-6a00-4b41-9863-f0241b9e3104">
+
+#### Add to Watched-2
+
+<img width="1390" alt="Add to Watched 2" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/81422023-37d8-4f3c-8616-9913d81f46a4">
 
 
 ## Available Scripts
