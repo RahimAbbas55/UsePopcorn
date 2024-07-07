@@ -12,7 +12,7 @@ Another functionality that is present in this React project is that once you add
 
 Moreover, to search for the movies,this project uses an APi called "www.omdbapi.com". To use this api, follow the given steps:
 
-=>Visit [OMDB API]([www.omdbapi.com](https://www.omdbapi.com/apikey.aspx)).
+=>Visit [OMDB API](https://www.omdbapi.com/apikey.aspx).
 
 =>Register yourself and get your own API key.
 
