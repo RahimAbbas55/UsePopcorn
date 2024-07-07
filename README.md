@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Overview
+This project serves as a movie website where the user can search any movie and add the selected movie to their watch list and give the movie a rating of their own choice out 10.
+This project uses all of the famous React Hooks knows as " useState, useEffect and useRef" to perform the add and delete functionalities. Moreover, to search for the movies,
+this project uses an APi called "www.omdbapi.com". To use this api, follow the given steps:
+=>Visit [OMDB API]([www.omdbapi.com](https://www.omdbapi.com/apikey.aspx)).
+=>Register yourself and get your own API key.
+=>Replace your newly generated API key in "useMovie.js" in the "KEY' variable.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
