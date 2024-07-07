@@ -16,9 +16,9 @@ this project uses an APi called "www.omdbapi.com". To use this api, follow the g
 
 =>Replace your newly generated API key in "useMovie.js" in the "KEY' variable.
 
-##Project Images and Video:
+## Project Images and Video:
 
-#Images:
+# Images:
 
 <img width="1387" alt="Homepage" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/3da3e51c-b8d9-400c-b5b6-b57236d018eb">
 
