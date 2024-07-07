@@ -18,9 +18,7 @@ Moreover, to search for the movies,this project uses an APi called "www.omdbapi.
 
 =>Replace your newly generated API key in "useMovie.js" in the "KEY' variable.
 
-## Project Images:
-
-### ->Images:
+## ->Project Images:
 
 #### 1)Homepage
 
@@ -51,6 +49,8 @@ To run the project, follow the given steps:
 4) After doing all the steps correctly, simple write "npm start" command on the terminal.
 
 ### Note: To make sure all these steps work perfectly, you have to navigate in the project folder. If you enter the above mentioned commands in any other folder, it might not work correctly!
+
+## In case of any issue or query, you can contact me using my social media links in my description. Happy Coding😊
 
 ## Available Scripts
 
