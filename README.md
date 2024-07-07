@@ -16,6 +16,17 @@ this project uses an APi called "www.omdbapi.com". To use this api, follow the g
 
 =>Replace your newly generated API key in "useMovie.js" in the "KEY' variable.
 
+##Project Images and Video:
+
+#Images:
+
+<img width="1387" alt="Homepage" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/3da3e51c-b8d9-400c-b5b6-b57236d018eb">
+
+
+<img width="1387" alt="Search Movie" src="https://github.com/RahimAbbas55/UsePopcorn-React-Application/assets/101935846/3c4c1797-bdc9-4447-b30a-b09afcb890c3">
+
+
+
 
 ## Available Scripts
 
@@ -59,26 +70,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
