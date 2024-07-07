@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const KEY = "988bbdf9";
+const KEY = "<Enter your API key here>";
 export function useMovies(query, callback) {
   const [movies, setMovies] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
